@@ -10,5 +10,9 @@
     •	Job_details
     •	Add_job
     •	Search & filters
-
+4.  Accounts app
+    •   Signup & login
+    •   lost password via email
+    
+5.  Using Imgbot to compress media files
 
